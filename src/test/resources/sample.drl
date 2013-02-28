@@ -1,0 +1,19 @@
+package droolstesting
+
+rule "One"
+when
+    Integer(intValue==1)
+then
+end
+
+rule "Two"
+when
+    Integer(intValue==2)
+then
+end
+
+rule "Three"
+when
+    Integer(intValue==3)
+then
+end
